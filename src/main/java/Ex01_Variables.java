@@ -1,4 +1,4 @@
-public class Ex01 {
+public class Ex01_Variables {
     public static void main(String[] args) {
         String hello = "Hello";
         var space = " ";
